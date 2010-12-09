@@ -1,0 +1,379 @@
+TFingerMouse
+v7
+r0
+t313602276.754901
+cCheck dependencies
+cProcessInfoPlistFile /Users/bia/Desktop/FingerMouse/build/Debug/FingerMouse.app/Contents/Info.plist FingerMouse-Info.plist
+cCopyStringsFile /Users/bia/Desktop/FingerMouse/build/Debug/FingerMouse.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileXIB /Users/bia/Desktop/FingerMouse/English.lproj/MainMenu.xib
+cCpResource build/Debug/FingerMouse.app/Contents/Resources/Icon.icns Icon.icns
+cCpResource build/Debug/FingerMouse.app/Contents/Resources/Active.png Active.png
+cCpResource build/Debug/FingerMouse.app/Contents/Resources/Hover.png Hover.png
+cProcessPCH /var/folders/Db/DbWOSeRHE147Q+mmO93OKE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FingerMouse_Prefix-drtriyfzzccdrtfmlysyqexgqysu/FingerMouse_Prefix.pch.gch FingerMouse_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FingerMouse.build/Debug/FingerMouse.build/Objects-normal/x86_64/main.o /Users/bia/Desktop/FingerMouse/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FingerMouse.build/Debug/FingerMouse.build/Objects-normal/x86_64/FingerMouseAppDelegate.o /Users/bia/Desktop/FingerMouse/FingerMouseAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/bia/Desktop/FingerMouse/build/Debug/FingerMouse.app/Contents/MacOS/FingerMouse normal x86_64
+cTouch /Users/bia/Desktop/FingerMouse/build/Debug/FingerMouse.app
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CF79CDF00000000000000EE
+t1291295967
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/bia/Desktop/FingerMouse/Active.png
+c000000004CF14FE000000000000007CF
+t1290883040
+s1999
+
+N/Users/bia/Desktop/FingerMouse/English.lproj/InfoPlist.strings
+c000000004D00F3B1000000000000002D
+t1291908017
+s45
+
+N/Users/bia/Desktop/FingerMouse/English.lproj/MainMenu.xib
+c000000004D00F962000000000002C004
+t1291909474
+s180228
+
+N/Users/bia/Desktop/FingerMouse/FingerMouseAppDelegate.h
+c000000004D00F58B0000000000000147
+t1291908491
+s327
+i<Cocoa/Cocoa.h>
+
+N/Users/bia/Desktop/FingerMouse/FingerMouseAppDelegate.m
+c000000004D00F715000000000000093C
+t1291908885
+s2364
+i"FingerMouseAppDelegate.h"
+
+N/Users/bia/Desktop/FingerMouse/FingerMouse_Prefix.pch
+c000000004D00F3B10000000000000099
+t1291908017
+s153
+i<Cocoa/Cocoa.h>
+
+N/Users/bia/Desktop/FingerMouse/Hover.png
+c000000004CF14FE00000000000000754
+t1290883040
+s1876
+
+N/Users/bia/Desktop/FingerMouse/Icon.icns
+c000000004CF14FE00000000000017D5F
+t1290883040
+s97631
+
+N/Users/bia/Desktop/FingerMouse/build/Debug/FingerMouse.app
+t1291909476
+s102
+
+N/Users/bia/Desktop/FingerMouse/build/Debug/FingerMouse.app/Contents/Info.plist
+t1291908964
+s955
+
+N/Users/bia/Desktop/FingerMouse/build/Debug/FingerMouse.app/Contents/MacOS/FingerMouse
+t1291908887
+s16704
+
+N/Users/bia/Desktop/FingerMouse/build/Debug/FingerMouse.app/Contents/PkgInfo
+t1291908964
+s8
+
+N/Users/bia/Desktop/FingerMouse/build/Debug/FingerMouse.app/Contents/Resources/Active.png
+t1291908286
+s1999
+
+N/Users/bia/Desktop/FingerMouse/build/Debug/FingerMouse.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1291908286
+s92
+
+N/Users/bia/Desktop/FingerMouse/build/Debug/FingerMouse.app/Contents/Resources/English.lproj/MainMenu.nib
+t1291909476
+s33597
+
+N/Users/bia/Desktop/FingerMouse/build/Debug/FingerMouse.app/Contents/Resources/Hover.png
+t1291908286
+s1876
+
+N/Users/bia/Desktop/FingerMouse/build/Debug/FingerMouse.app/Contents/Resources/Icon.icns
+t1291908286
+s97631
+
+N/Users/bia/Desktop/FingerMouse/build/FingerMouse.build/Debug/FingerMouse.build/Objects-normal/x86_64/FingerMouse.LinkFileList
+c000000004D00F4BE00000000000000EA
+t1291908286
+s234
+
+N/Users/bia/Desktop/FingerMouse/build/FingerMouse.build/Debug/FingerMouse.build/Objects-normal/x86_64/FingerMouseAppDelegate.o
+t1291908887
+s34004
+
+N/Users/bia/Desktop/FingerMouse/build/FingerMouse.build/Debug/FingerMouse.build/Objects-normal/x86_64/main.o
+t1291908291
+s4976
+
+N/Users/bia/Desktop/FingerMouse/main.m
+c000000004D00F3B100000000000000FC
+t1291908017
+s252
+i<Cocoa/Cocoa.h>
+
+N/Users/bia/Desktop/big/IxD/FingerMouse/Active.png
+c000000004CF14FE000000000000007CF
+t1290883040
+s1999
+
+N/Users/bia/Desktop/big/IxD/FingerMouse/English.lproj/InfoPlist.strings
+c000000004D00F3B1000000000000002D
+t1291908017
+s45
+
+N/Users/bia/Desktop/big/IxD/FingerMouse/English.lproj/MainMenu.xib
+c000000004D00F962000000000002C004
+t1291909474
+s180228
+
+N/Users/bia/Desktop/big/IxD/FingerMouse/FingerMouseAppDelegate.h
+c000000004D00F58B0000000000000147
+t1291908491
+s327
+i<Cocoa/Cocoa.h>
+
+N/Users/bia/Desktop/big/IxD/FingerMouse/FingerMouseAppDelegate.m
+c000000004D00F715000000000000093C
+t1291908885
+s2364
+i"FingerMouseAppDelegate.h"
+
+N/Users/bia/Desktop/big/IxD/FingerMouse/FingerMouse_Prefix.pch
+c000000004D00F3B10000000000000099
+t1291908017
+s153
+i<Cocoa/Cocoa.h>
+
+N/Users/bia/Desktop/big/IxD/FingerMouse/Hover.png
+c000000004CF14FE00000000000000754
+t1290883040
+s1876
+
+N/Users/bia/Desktop/big/IxD/FingerMouse/Icon.icns
+c000000004CF14FE00000000000017D5F
+t1290883040
+s97631
+
+N/Users/bia/Desktop/big/IxD/FingerMouse/build/Debug/FingerMouse.app
+t1291909476
+s102
+
+N/Users/bia/Desktop/big/IxD/FingerMouse/build/Debug/FingerMouse.app/Contents/Info.plist
+t1291908964
+s955
+
+N/Users/bia/Desktop/big/IxD/FingerMouse/build/Debug/FingerMouse.app/Contents/MacOS/FingerMouse
+t1291908887
+s16704
+
+N/Users/bia/Desktop/big/IxD/FingerMouse/build/Debug/FingerMouse.app/Contents/PkgInfo
+t1291908964
+s8
+
+N/Users/bia/Desktop/big/IxD/FingerMouse/build/Debug/FingerMouse.app/Contents/Resources/Active.png
+t1291908286
+s1999
+
+N/Users/bia/Desktop/big/IxD/FingerMouse/build/Debug/FingerMouse.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1291908286
+s92
+
+N/Users/bia/Desktop/big/IxD/FingerMouse/build/Debug/FingerMouse.app/Contents/Resources/English.lproj/MainMenu.nib
+t1291909476
+s33597
+
+N/Users/bia/Desktop/big/IxD/FingerMouse/build/Debug/FingerMouse.app/Contents/Resources/Hover.png
+t1291908286
+s1876
+
+N/Users/bia/Desktop/big/IxD/FingerMouse/build/Debug/FingerMouse.app/Contents/Resources/Icon.icns
+t1291908286
+s97631
+
+N/Users/bia/Desktop/big/IxD/FingerMouse/build/FingerMouse.build/Debug/FingerMouse.build/Objects-normal/x86_64/FingerMouse.LinkFileList
+c000000004D00F4BE00000000000000EA
+t1291908286
+s234
+
+N/Users/bia/Desktop/big/IxD/FingerMouse/build/FingerMouse.build/Debug/FingerMouse.build/Objects-normal/x86_64/FingerMouseAppDelegate.o
+t1291908887
+s34004
+
+N/Users/bia/Desktop/big/IxD/FingerMouse/build/FingerMouse.build/Debug/FingerMouse.build/Objects-normal/x86_64/main.o
+t1291908291
+s4976
+
+N/Users/bia/Desktop/big/IxD/FingerMouse/main.m
+c000000004D00F3B100000000000000FC
+t1291908017
+s252
+i<Cocoa/Cocoa.h>
+
+N/var/folders/Db/DbWOSeRHE147Q+mmO93OKE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FingerMouse_Prefix-bppmfkmmldmsphgcxijpibxccdpu/FingerMouse_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/Db/DbWOSeRHE147Q+mmO93OKE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FingerMouse_Prefix-drtriyfzzccdrtfmlysyqexgqysu/FingerMouse_Prefix.pch.gch
+t1291908291
+s54306576
+
+NFingerMouse-Info.plist
+c000000004D00F76300000000000003F3
+t1291908963
+s1011
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies313602276#313602276#0(0"0(0#1#0"8616494144#0"0#
+
+CCompileC build/FingerMouse.build/Debug/FingerMouse.build/Objects-normal/x86_64/FingerMouseAppDelegate.o /Users/bia/Desktop/FingerMouse/FingerMouseAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s313601686.740670
+e313601687.089024
+r1
+xCompileC
+xbuild/FingerMouse.build/Debug/FingerMouse.build/Objects-normal/x86_64/FingerMouseAppDelegate.o
+x/Users/bia/Desktop/FingerMouse/FingerMouseAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/bia/Desktop/FingerMouse/FingerMouseAppDelegate.m313601686#313601687#0(0"0(0#0#55"/Users/bia/Desktop/FingerMouse/FingerMouseAppDelegate.m8617408928#1478"    cd /Users/bia/Desktop/FingerMouse    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/bia/Desktop/FingerMouse/build/FingerMouse.build/Debug/FingerMouse.build/FingerMouse-generated-files.hmap -I/Users/bia/Desktop/FingerMouse/build/FingerMouse.build/Debug/FingerMouse.build/FingerMouse-own-target-headers.hmap -I/Users/bia/Desktop/FingerMouse/build/FingerMouse.build/Debug/FingerMouse.build/FingerMouse-all-target-headers.hmap -iquote /Users/bia/Desktop/FingerMouse/build/FingerMouse.build/Debug/FingerMouse.build/FingerMouse-project-headers.hmap -F/Users/bia/Desktop/FingerMouse/build/Debug -I/Users/bia/Desktop/FingerMouse/build/Debug/include -I/Users/bia/Desktop/FingerMouse/build/FingerMouse.build/Debug/FingerMouse.build/DerivedSources/x86_64 -I/Users/bia/Desktop/FingerMouse/build/FingerMouse.build/Debug/FingerMouse.build/DerivedSources -include /var/folders/Db/DbWOSeRHE147Q+mmO93OKE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FingerMouse_Prefix-drtriyfzzccdrtfmlysyqexgqysu/FingerMouse_Prefix.pch -c /Users/bia/Desktop/FingerMouse/FingerMouseAppDelegate.m -o /Users/bia/Desktop/FingerMouse/build/FingerMouse.build/Debug/FingerMouse.build/Objects-normal/x86_64/FingerMouseAppDelegate.o0#
+
+CCompileC build/FingerMouse.build/Debug/FingerMouse.build/Objects-normal/x86_64/FingerMouseAppDelegate.o /Users/bia/Desktop/big/IxD/FingerMouse/FingerMouseAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/FingerMouse.build/Debug/FingerMouse.build/Objects-normal/x86_64/main.o /Users/bia/Desktop/FingerMouse/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s313601091.749678
+e313601091.971777
+r1
+xCompileC
+xbuild/FingerMouse.build/Debug/FingerMouse.build/Objects-normal/x86_64/main.o
+x/Users/bia/Desktop/FingerMouse/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@45"Compile /Users/bia/Desktop/FingerMouse/main.m313601091#313601091#0(0"0(0#0#37"/Users/bia/Desktop/FingerMouse/main.m8611890528#1442"    cd /Users/bia/Desktop/FingerMouse    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/bia/Desktop/FingerMouse/build/FingerMouse.build/Debug/FingerMouse.build/FingerMouse-generated-files.hmap -I/Users/bia/Desktop/FingerMouse/build/FingerMouse.build/Debug/FingerMouse.build/FingerMouse-own-target-headers.hmap -I/Users/bia/Desktop/FingerMouse/build/FingerMouse.build/Debug/FingerMouse.build/FingerMouse-all-target-headers.hmap -iquote /Users/bia/Desktop/FingerMouse/build/FingerMouse.build/Debug/FingerMouse.build/FingerMouse-project-headers.hmap -F/Users/bia/Desktop/FingerMouse/build/Debug -I/Users/bia/Desktop/FingerMouse/build/Debug/include -I/Users/bia/Desktop/FingerMouse/build/FingerMouse.build/Debug/FingerMouse.build/DerivedSources/x86_64 -I/Users/bia/Desktop/FingerMouse/build/FingerMouse.build/Debug/FingerMouse.build/DerivedSources -include /var/folders/Db/DbWOSeRHE147Q+mmO93OKE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FingerMouse_Prefix-drtriyfzzccdrtfmlysyqexgqysu/FingerMouse_Prefix.pch -c /Users/bia/Desktop/FingerMouse/main.m -o /Users/bia/Desktop/FingerMouse/build/FingerMouse.build/Debug/FingerMouse.build/Objects-normal/x86_64/main.o0#
+
+CCompileC build/FingerMouse.build/Debug/FingerMouse.build/Objects-normal/x86_64/main.o /Users/bia/Desktop/big/IxD/FingerMouse/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB /Users/bia/Desktop/FingerMouse/English.lproj/MainMenu.xib
+s313602276.470736
+e313602276.751759
+r1
+xCompileXIB
+x/Users/bia/Desktop/FingerMouse/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib313602276#313602276#0(0"0(0#0#57"/Users/bia/Desktop/FingerMouse/English.lproj/MainMenu.xib8612600448#344"    cd /Users/bia/Desktop/FingerMouse    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/bia/Desktop/FingerMouse/build/Debug/FingerMouse.app/Contents/Resources/English.lproj/MainMenu.nib /Users/bia/Desktop/FingerMouse/English.lproj/MainMenu.xib --sdk /Developer/SDKs/MacOSX10.6.sdk0#
+
+CCompileXIB /Users/bia/Desktop/big/IxD/FingerMouse/English.lproj/MainMenu.xib
+r0
+
+CCopyStringsFile /Users/bia/Desktop/FingerMouse/build/Debug/FingerMouse.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s313601086.666279
+e313601086.747589
+r1
+xCopyStringsFile
+x/Users/bia/Desktop/FingerMouse/build/Debug/FingerMouse.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings313601086#313601086#0(0"0(0#0#62"/Users/bia/Desktop/FingerMouse/English.lproj/InfoPlist.strings8613429536#353"    cd /Users/bia/Desktop/FingerMouse    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/bia/Desktop/FingerMouse/build/Debug/FingerMouse.app/Contents/Resources/English.lproj0#
+
+CCopyStringsFile /Users/bia/Desktop/big/IxD/FingerMouse/build/Debug/FingerMouse.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+r0
+
+CCpResource build/Debug/FingerMouse.app/Contents/Resources/Active.png Active.png
+s313601086.748276
+e313601086.759737
+r1
+xCpResource
+xbuild/Debug/FingerMouse.app/Contents/Resources/Active.png
+xActive.png
+lSLF07#2@15"Copy Active.png313601086#313601086#0(0"0(0#0#41"/Users/bia/Desktop/FingerMouse/Active.png8612195552#320"    cd /Users/bia/Desktop/FingerMouse    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/bia/Desktop/FingerMouse/Active.png /Users/bia/Desktop/FingerMouse/build/Debug/FingerMouse.app/Contents/Resources0#
+
+CCpResource build/Debug/FingerMouse.app/Contents/Resources/Hover.png Hover.png
+s313601086.749775
+e313601086.757689
+r1
+xCpResource
+xbuild/Debug/FingerMouse.app/Contents/Resources/Hover.png
+xHover.png
+lSLF07#2@14"Copy Hover.png313601086#313601086#0(0"0(0#0#40"/Users/bia/Desktop/FingerMouse/Hover.png8612079744#319"    cd /Users/bia/Desktop/FingerMouse    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/bia/Desktop/FingerMouse/Hover.png /Users/bia/Desktop/FingerMouse/build/Debug/FingerMouse.app/Contents/Resources0#
+
+CCpResource build/Debug/FingerMouse.app/Contents/Resources/Icon.icns Icon.icns
+s313601086.747672
+e313601086.758120
+r1
+xCpResource
+xbuild/Debug/FingerMouse.app/Contents/Resources/Icon.icns
+xIcon.icns
+lSLF07#2@14"Copy Icon.icns313601086#313601086#0(0"0(0#0#40"/Users/bia/Desktop/FingerMouse/Icon.icns8612348448#319"    cd /Users/bia/Desktop/FingerMouse    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/bia/Desktop/FingerMouse/Icon.icns /Users/bia/Desktop/FingerMouse/build/Debug/FingerMouse.app/Contents/Resources0#
+
+CLd /Users/bia/Desktop/FingerMouse/build/Debug/FingerMouse.app/Contents/MacOS/FingerMouse normal x86_64
+s313601687.089106
+e313601687.123166
+r1
+xLd
+x/Users/bia/Desktop/FingerMouse/build/Debug/FingerMouse.app/Contents/MacOS/FingerMouse
+xnormal
+xx86_64
+lSLF07#2@90"Link /Users/bia/Desktop/FingerMouse/build/Debug/FingerMouse.app/Contents/MacOS/FingerMouse313601687#313601687#0(0"0(0#0#0"8621345536#522"    cd /Users/bia/Desktop/FingerMouse    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/bia/Desktop/FingerMouse/build/Debug -F/Users/bia/Desktop/FingerMouse/build/Debug -filelist /Users/bia/Desktop/FingerMouse/build/FingerMouse.build/Debug/FingerMouse.build/Objects-normal/x86_64/FingerMouse.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -o /Users/bia/Desktop/FingerMouse/build/Debug/FingerMouse.app/Contents/MacOS/FingerMouse0#
+
+CLd /Users/bia/Desktop/big/IxD/FingerMouse/build/Debug/FingerMouse.app/Contents/MacOS/FingerMouse normal x86_64
+r0
+
+CProcessInfoPlistFile /Users/bia/Desktop/FingerMouse/build/Debug/FingerMouse.app/Contents/Info.plist FingerMouse-Info.plist
+s313601764.676526
+e313601764.683139
+r1
+xProcessInfoPlistFile
+x/Users/bia/Desktop/FingerMouse/build/Debug/FingerMouse.app/Contents/Info.plist
+xFingerMouse-Info.plist
+lSLF07#2@30"Process FingerMouse-Info.plist313601764#313601764#0(0"0(0#0#53"/Users/bia/Desktop/FingerMouse/FingerMouse-Info.plist8615142944#298"    cd /Users/bia/Desktop/FingerMouse    builtin-infoPlistUtility FingerMouse-Info.plist -genpkginfo /Users/bia/Desktop/FingerMouse/build/Debug/FingerMouse.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/bia/Desktop/FingerMouse/build/Debug/FingerMouse.app/Contents/Info.plist0#
+
+CProcessInfoPlistFile /Users/bia/Desktop/big/IxD/FingerMouse/build/Debug/FingerMouse.app/Contents/Info.plist FingerMouse-Info.plist
+r0
+
+CProcessPCH /var/folders/Db/DbWOSeRHE147Q+mmO93OKE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FingerMouse_Prefix-bppmfkmmldmsphgcxijpibxccdpu/FingerMouse_Prefix.pch.gch FingerMouse_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/Db/DbWOSeRHE147Q+mmO93OKE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FingerMouse_Prefix-drtriyfzzccdrtfmlysyqexgqysu/FingerMouse_Prefix.pch.gch FingerMouse_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s313601087.031778
+e313601091.749511
+r1
+xProcessPCH
+x/var/folders/Db/DbWOSeRHE147Q+mmO93OKE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FingerMouse_Prefix-drtriyfzzccdrtfmlysyqexgqysu/FingerMouse_Prefix.pch.gch
+xFingerMouse_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile FingerMouse_Prefix.pch313601087#313601091#0(0"0(0#0#53"/Users/bia/Desktop/FingerMouse/FingerMouse_Prefix.pch8610776224#1352"    cd /Users/bia/Desktop/FingerMouse    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/bia/Desktop/FingerMouse/build/FingerMouse.build/Debug/FingerMouse.build/FingerMouse-generated-files.hmap -I/Users/bia/Desktop/FingerMouse/build/FingerMouse.build/Debug/FingerMouse.build/FingerMouse-own-target-headers.hmap -I/Users/bia/Desktop/FingerMouse/build/FingerMouse.build/Debug/FingerMouse.build/FingerMouse-all-target-headers.hmap -iquote /Users/bia/Desktop/FingerMouse/build/FingerMouse.build/Debug/FingerMouse.build/FingerMouse-project-headers.hmap -F/Users/bia/Desktop/FingerMouse/build/Debug -I/Users/bia/Desktop/FingerMouse/build/Debug/include -I/Users/bia/Desktop/FingerMouse/build/FingerMouse.build/Debug/FingerMouse.build/DerivedSources/x86_64 -I/Users/bia/Desktop/FingerMouse/build/FingerMouse.build/Debug/FingerMouse.build/DerivedSources -c /Users/bia/Desktop/FingerMouse/FingerMouse_Prefix.pch -o /var/folders/Db/DbWOSeRHE147Q+mmO93OKE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FingerMouse_Prefix-drtriyfzzccdrtfmlysyqexgqysu/FingerMouse_Prefix.pch.gch0#
+
+CTouch /Users/bia/Desktop/FingerMouse/build/Debug/FingerMouse.app
+s313602276.752189
+e313602276.754876
+r1
+xTouch
+x/Users/bia/Desktop/FingerMouse/build/Debug/FingerMouse.app
+lSLF07#2@64"Touch /Users/bia/Desktop/FingerMouse/build/Debug/FingerMouse.app313602276#313602276#0(0"0(0#0#0"8612005472#119"    cd /Users/bia/Desktop/FingerMouse    /usr/bin/touch -c /Users/bia/Desktop/FingerMouse/build/Debug/FingerMouse.app0#
+
+CTouch /Users/bia/Desktop/big/IxD/FingerMouse/build/Debug/FingerMouse.app
+r0
+
